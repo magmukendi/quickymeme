@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quickymeme/static/css/main.5b7ad2bb.css",
-    "main.js": "/quickymeme/static/js/main.3bdbe5e8.js",
+    "main.css": "/quickymeme/static/css/main.0d50bb1b.css",
+    "main.js": "/quickymeme/static/js/main.359ff0ab.js",
     "static/js/787.daa33a9c.chunk.js": "/quickymeme/static/js/787.daa33a9c.chunk.js",
     "static/media/meme.png": "/quickymeme/static/media/meme.070f791b194ec61cdb2a.png",
     "index.html": "/quickymeme/index.html",
-    "main.5b7ad2bb.css.map": "/quickymeme/static/css/main.5b7ad2bb.css.map",
-    "main.3bdbe5e8.js.map": "/quickymeme/static/js/main.3bdbe5e8.js.map",
+    "main.0d50bb1b.css.map": "/quickymeme/static/css/main.0d50bb1b.css.map",
+    "main.359ff0ab.js.map": "/quickymeme/static/js/main.359ff0ab.js.map",
     "787.daa33a9c.chunk.js.map": "/quickymeme/static/js/787.daa33a9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b7ad2bb.css",
-    "static/js/main.3bdbe5e8.js"
+    "static/css/main.0d50bb1b.css",
+    "static/js/main.359ff0ab.js"
   ]
 }
