@@ -1,0 +1,247 @@
+#root {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+  }
+  body {
+    padding: 0px;
+    width: 100%;
+  }
+  .App {
+    font-family: "Poppins" sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .warning {
+    margin: auto;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    text-align: center;
+    visibility: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .oss {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  /*NAV STYLE*/
+  .nav-bar {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(35, 66, 153);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+  }
+  .nav-nav{
+    margin: auto;
+  }
+  .nav-bar img {
+    width: 60px;
+    padding-right: 10px;
+  }
+  .nav-bar > div {
+    display: flex;
+  }
+  
+  .nav-container {
+    color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    height: 50px;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: rgb(50, 80, 200);
+  }
+  
+  .nav-container p {
+    text-align: center;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .nav-items {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+  }
+  .nav-logo {
+    width: 60px;
+    height: max-content;
+  }
+  .nav-items > li {
+    padding: 10px;
+  }
+  
+  .bg {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  /* MEME GENERATOR */
+  
+  .meme-container {
+    margin-top: 50px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .meme-form {
+    display: grid;
+    width: 360px;
+    grid-template: 40px 40px / 1fr 1fr;
+    gap: 15px;
+  }
+  .meme-input {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .meme-button {
+    grid-column: 1 / -1;
+    background-color: rgb(35, 66, 153);
+    color: white;
+  }
+  
+  .meme-button,
+  input {
+    border-radius: 5px;
+    border: 1px solid #d5d4d8;
+  }
+  input {
+    text-indent: 10px;
+  }
+  /* JOKE */
+  
+  .joke-container {
+  }
+  
+  /* messages */
+  
+  .bg span {
+    color: blue;
+  }
+  .img-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+    height: fit-content;
+    margin-top: 2rem;
+    width: fit-content;
+  }
+  .meme-img {
+    max-width: 80%;
+    border-radius: 3px;
+  }
+  
+  .meme--text {
+    position: absolute;
+    width: 80%;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 15px 0;
+    padding: 0 5px;
+    font-family: impact, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000,
+      -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000,
+      2px 2px 5px #000;
+  }
+  
+  .top {
+    top: 0;
+  }
+  .bottom {
+    bottom: 0;
+  }
+  
+  .space {
+    width: 200px;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.8rem;
+  }
+  
+  .download {
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding: 0.8rem 0rem;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(35, 66, 153);
+    width: 200px;
+    border-radius: 5px;
+  }
+  
+
+  /*Footer ========*/
+
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top:4rem;
+    position: absolute;
+    bottom: -50;
+    width:100vw;
+    padding: 2rem 0rem 2rem 0rem;
+  
+  }
+  
+  .footer hr{
+    width: 35%;
+    margin:auto;
+    margin-bottom: 1rem;
+  }
+  .footer span{
+    font-size: 14px;
+    color: black;
+    padding: 10px;
+  }
+  
+  .footer span:hover{
+    color: #1781C2;
+    opacity: 1;
+  }
+  .footer p{
+    margin: 1rem 0rem 0.5rem 0rem;
+    font-size: 8px;
+  }
+  .footer div{
+    margin:auto;
+  }
+  
+  
+  
