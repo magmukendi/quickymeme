@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quickmeme/static/css/main.5b7ad2bb.css",
-    "main.js": "/quickmeme/static/js/main.991e3fa2.js",
-    "static/js/787.daa33a9c.chunk.js": "/quickmeme/static/js/787.daa33a9c.chunk.js",
-    "static/media/meme.png": "/quickmeme/static/media/meme.070f791b194ec61cdb2a.png",
-    "index.html": "/quickmeme/index.html",
-    "main.5b7ad2bb.css.map": "/quickmeme/static/css/main.5b7ad2bb.css.map",
-    "main.991e3fa2.js.map": "/quickmeme/static/js/main.991e3fa2.js.map",
-    "787.daa33a9c.chunk.js.map": "/quickmeme/static/js/787.daa33a9c.chunk.js.map"
+    "main.css": "/quickymeme/static/css/main.5b7ad2bb.css",
+    "main.js": "/quickymeme/static/js/main.3bdbe5e8.js",
+    "static/js/787.daa33a9c.chunk.js": "/quickymeme/static/js/787.daa33a9c.chunk.js",
+    "static/media/meme.png": "/quickymeme/static/media/meme.070f791b194ec61cdb2a.png",
+    "index.html": "/quickymeme/index.html",
+    "main.5b7ad2bb.css.map": "/quickymeme/static/css/main.5b7ad2bb.css.map",
+    "main.3bdbe5e8.js.map": "/quickymeme/static/js/main.3bdbe5e8.js.map",
+    "787.daa33a9c.chunk.js.map": "/quickymeme/static/js/787.daa33a9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b7ad2bb.css",
-    "static/js/main.991e3fa2.js"
+    "static/js/main.3bdbe5e8.js"
   ]
 }
