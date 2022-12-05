@@ -22,15 +22,15 @@ For local use, clone the project locally, follow the steps below:
 - [X] Download the image.
 - [X] Share the image on social networks.
 - [ ] Change the position of the Texts.
-- [ ] Change the color of the Texts
+- [ ] Change the color of the Texts.
 - [ ] Resize the image.
 
 
 ## Technology & Ressources
 
 - React.js
-- [imgflip API](https://imgflip.com/api).
-- [Twitter API](https://developer.twitter.com/).
+- [imgflip API](https://imgflip.com/api)
+- [Twitter API](https://developer.twitter.com/)
 - [OAuth2](https://oauth.net/2/)
 
 
