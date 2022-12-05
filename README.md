@@ -20,7 +20,7 @@ For local use, clone the project locally, follow the steps below:
 - [X] Add a Top text to the image.
 - [X] Add a bottom text to the image.
 - [X] Download the image.
-- [X] Share the image on social network.
+- [X] Share the image on social networks.
 - [ ] Change the position of the Texts.
 - [ ] Change the color of the Texts
 - [ ] Resize the image.
