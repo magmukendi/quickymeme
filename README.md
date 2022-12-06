@@ -2,7 +2,7 @@
 
 ![image](https://github.com/243Studio/gif/raw/main/meme.gif)
 
-**[Quicky Meme](https://magmukendi.me/quickymeme/)** is a web application that allows the users to create meme and download or share them in few clicks. readability.
+**[Quicky Meme](https://magmukendi.me/quickymeme/)** is a web application that allows the user to create memes and download or share them with the world in a matter of few clicks.
 
 
 ## Install & Usage
